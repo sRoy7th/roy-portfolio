@@ -4,7 +4,7 @@ Sitio personal (una sola página, bilingüe ES/EN) que muestra mi trabajo constr
 y operando **aplicaciones de IA en producción**: gateways multi-proveedor, RAG con
 gobierno de datos, sistemas de agentes y seguridad de prompts.
 
-🔗 **En vivo:** https://rogelio-armas.vercel.app/ · **Contacto:** ireconyherath@gmail.com
+🔗 **En vivo:** https://roy-portfolio-rust.vercel.app/ · **Contacto:** ireconyherath@gmail.com
 
 ## Stack
 
